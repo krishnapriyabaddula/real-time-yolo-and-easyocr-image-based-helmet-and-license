@@ -5,3 +5,5 @@ Still, a leading source of injuries and deaths worldwide is road traffic acciden
 Using two independently trained YOLO models, this initiative creates an image-based helmet and license plate recognition system. The first model identifies helmets and determines if a rider is wearing one. The second model finds the vehicle's license plate. EasyOCR extracts the vehicle registration number via Optical Character Recognition (OCR) after finding the license plate.
 The system notes the results with bounding boxes, detection labels, helmet status, and license plate number after scanning an input image for pertinent objects. Python, OpenCV, the Ultralytics YOLO framework, and Easyocr make up the implementation.
 The suggested system shows how artificial intelligence can automatically detect traffic infractions, lower human involvement, and raise law enforcement effectiveness. This strategy can be seen as a first stride toward intelligent traffic management and smart surveillance. 
+# Technical paper
+Link:https://docs.google.com/document/d/1Y4KH-uoGWm6GlRTPcgp-UWcL4TpFFrTy/edit?usp=drive_link&ouid=102178155558780052684&rtpof=true&sd=true
